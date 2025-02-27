@@ -1,5 +1,5 @@
 # Natural Language Understanding of Devanagari Script Languages - CHIPSAL@COLING 2025
-
+---
 This repository contains our implementation for the **Shared Task on Natural Language Understanding of Devanagari Script Languages**, organized as part of **CHIPSAL@COLING 2025**. This task focuses on addressing key challenges in processing Devanagari-scripted languages through three subtasks: language identification, hate speech detection, and target identification for hate speech.
 ---
 ## Paper Abstract
